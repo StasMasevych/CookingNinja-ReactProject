@@ -9,7 +9,7 @@
 ### Main tech stack and tools:
 - React Router 6
 - React (useState, useEffect, useRef, useContext, useReducer, conditional rendering)
-- Firebase (firestore database and add/update/delete data, fetching firestorm collection and documents, real-time collection and documents data)
+- Firebase (firestore database and add/update/delete data, fetching firestore collection and documents, real-time collection and documents data)
 - Vanilla JS
 - CSS
 
